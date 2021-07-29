@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pseud0n
 - 👀 I’m interested in: nothing
-- 🌱 I’m currently learning: Haskell, Nix Home Manager, Rust, C++
+- 🌱 I’m currently learning: Haskell, Nix Home Manager, Rust, C++, JS/CSS/HTML
 - 💞️ I’m looking to collaborate on: nothing
 - 📫 How to reach me: don't
 
