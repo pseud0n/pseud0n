@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @pseud0n
-- 👀 I’m interested in: nothing
-- 🌱 I’m currently learning: Nix Home Manager, Rust, JS/CSS/HTML
-- 💞️ I’m looking to collaborate on: nothing
-- 📫 How to reach me: don't
+- 🌱 I’m currently learning: Nix Home Manager, Rust, Clojure JS/CSS/HTML
 
 <!---
 pseud0n/pseud0n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
