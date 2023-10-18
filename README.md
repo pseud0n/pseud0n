@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pseud0n
-- 🌱 I’m currently learning: Nix Home Manager, Rust, Clojure JS/CSS/HTML
+- 🌱 I’m currently learning: Numworks stack!
 
 <!---
 pseud0n/pseud0n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
